@@ -1,6 +1,7 @@
 # Major-Project-Report---Matrixon-Systems
 
 Attack, Detection & Hardening of Enterprise Infrastructure Using SIEM
+
 📌 Project Description
 
 This project demonstrates a complete Red Team–Blue Team security workflow by simulating real-world cyberattacks on enterprise infrastructure, detecting security events using a SIEM solution (Wazuh), and applying effective system hardening measures. The goal is to understand how attacks occur, how they are detected, and how systems can be secured against them.
